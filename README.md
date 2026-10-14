@@ -1,93 +1,116 @@
 <div align="center">
 
-# ARJUN T V
+<img src="assets/cyberpunk-banner.gif" alt="Animated cyberpunk banner" width="100%">
 
-### Computer Engineering Student · Software Developer · AI Enthusiast
+### `COMPUTER ENGINEERING STUDENT` · `SOFTWARE DEVELOPER` · `AI ENTHUSIAST`
 
-Building practical software solutions, intelligent applications, and modern web experiences.
+**Building practical software. Exploring intelligent systems. Designing modern web experiences.**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-white?style=for-the-badge&logo=github&logoColor=black)](https://arjun-t-v.github.io/Arjun-portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Arjun--T--V-181717?style=for-the-badge&logo=github)](https://github.com/Arjun-T-V)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![Portfolio](https://img.shields.io/badge/ENTER%20PORTFOLIO-00F5FF?style=for-the-badge&logo=github&logoColor=black)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-FF2BD6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-T-V)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
 
 </div>
 
 ---
 
-## About Me
+## `01 // ABOUT ME`
 
-I'm a Computer Engineering student interested in software development, web technologies, automation, and AI-assisted applications. I enjoy turning ideas into useful projects and improving my technical skills through hands-on development.
+I'm a Computer Engineering student interested in software development, web technologies, automation, and AI-assisted applications. I enjoy turning ideas into useful projects and learning by building.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 💻 **Interests:** Software Engineering, Web Development, AI, NLP, Automation
-- 🌱 **Currently learning:** Building better applications and improving my development workflow
-- 🌐 **Portfolio:** [Visit my website](https://arjun-t-v.github.io/Arjun-portfolio/)
+- **Focus:** Software Engineering · Web Development · AI · NLP
+- **Currently exploring:** Better application design, automation, and practical ML integrations
+- **Portfolio:** [arjun-t-v.github.io/Arjun-portfolio](https://arjun-t-v.github.io/Arjun-portfolio/)
 
-## Tech Stack
+## `02 // TECH STACK`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=00F5FF)
+![Java](https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=FF2BD6)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00F5FF)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FF6B35)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=00F5FF)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111827?style=for-the-badge&logo=php&logoColor=9B8CFF)
+![MySQL](https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql&logoColor=00F5FF)
+![Git](https://img.shields.io/badge/GIT-111827?style=for-the-badge&logo=git&logoColor=FF6B35)
+![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![NLTK](https://img.shields.io/badge/NLTK-111827?style=for-the-badge&logoColor=FF2BD6)
+![Pandas](https://img.shields.io/badge/PANDAS-111827?style=for-the-badge&logo=pandas&logoColor=9B8CFF)
 
 </div>
 
-## Featured Projects
+## `03 // FEATURED PROJECTS`
 
-### 📘 PAPERLY — Question Paper Generator
-A question-paper generation application based on **Bloom's Taxonomy**, using NLP concepts and a desktop interface.
+<table>
+<tr>
+<td width="50%">
 
-**Technologies:** Python · NLTK · Tkinter · NLP
+### ◈ PAPERLY
+**Bloom's Taxonomy Question Paper Generator**
 
-### 🚲 RollNRent — Bike Rental Platform
-A web-based bike rental management platform designed to support the rental workflow.
+A question-generation application using NLP concepts and a desktop GUI.
 
-**Technologies:** HTML · CSS · JavaScript · PHP · MySQL
+`PYTHON` `NLTK` `TKINTER`
 
-### 🔐 Password Analyzer
+</td>
+<td width="50%">
+
+### ◈ RollNRent
+**Bike Rental Platform**
+
+A web-based bike rental management platform.
+
+`HTML` `CSS` `JAVASCRIPT` `PHP` `MYSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ◈ Password Analyzer
+**Password Strength Utility**
+
 A Python application for evaluating password strength and estimating resistance to brute-force attacks.
 
-**Technologies:** Python
+`PYTHON` `SECURITY`
 
-### 🅿️ PARKEASE — Smart Parking Platform
-A smart parking project focused on parking-slot management, with IoT sensor integration and machine-learning-based duration prediction as development goals.
+</td>
+<td width="50%">
 
-**Technologies:** Python · Django · IoT · Machine Learning
+### ◈ PARKEASE
+**Smart Parking Platform**
 
-## What You'll Find on My Portfolio
+A parking-slot management project exploring IoT sensor integration and ML-based duration prediction.
 
-- **Project Vault** — an overview of selected projects
-- **Resume** — education, skills, projects, and experience
-- **Certificate Gallery** — selected certificates and workshops
-- **Contact** — links to connect with me
+`DJANGO` `PYTHON` `IOT` `ML`
+
+</td>
+</tr>
+</table>
+
+## `04 // PORTFOLIO MODULES`
+
+- **PROJECT VAULT** — selected projects and technical details
+- **RESUME** — education, skills, and project experience
+- **CERTIFICATE GALLERY** — certifications and workshops
+- **CONTACT** — ways to connect
 
 <div align="center">
 
-[![Explore Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![Launch Portfolio](https://img.shields.io/badge/LAUNCH%20PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://arjun-t-v.github.io/Arjun-portfolio/)
 
 </div>
 
-## Connect With Me
-
-- **Portfolio:** https://arjun-t-v.github.io/Arjun-portfolio/
-- **GitHub:** https://github.com/Arjun-T-V
-- **LinkedIn:** https://www.linkedin.com/in/arjun-t-v-a975452b4/
-- **Email:** arjun118654@gmail.com
-
----
+## `05 // CONNECT`
 
 <div align="center">
 
-*Always learning. Always building.*
+[![Email](https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=FF2BD6)](mailto:arjun118654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![Portfolio](https://img.shields.io/badge/WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=00F5FF)](https://arjun-t-v.github.io/Arjun-portfolio/)
+
+*`ALWAYS LEARNING. ALWAYS BUILDING.`*
 
 </div>
