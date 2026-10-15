@@ -8,9 +8,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/ENTER%20PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://arjun-t-v.github.io/Arjun-portfolio/)
-[![GitHub](https://img.shields.io/badge/GITHUB-FF2BD6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjun-T-V)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![Portfolio](https://img.shields.io/badge/ENTER%20PORTFOLIO-FFD166?style=for-the-badge&logo=googlechrome&logoColor=0A2A5E)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-F4F8FF?style=for-the-badge&logo=github&logoColor=0A2A5E)](https://github.com/Arjun-T-V)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-7FDBFF?style=for-the-badge&logo=linkedin&logoColor=0A2A5E)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
 
 </div>
 
@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Terminal: Arjun T V, Computer Engineering student. Focus on Software Engineering, Web Development, AI and NLP." width="100%">
+<img src="assets/spec.svg" alt="Specification sheet: Arjun T V, Computer Engineering student. Focus on Software Engineering, Web Development, AI and NLP." width="100%">
 </div>
 
 <br>
@@ -37,49 +37,7 @@ I'm a Computer Engineering student interested in software development, web techn
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="170"><b><code>LANGUAGES</code></b></td>
-<td>
-
-![Python](https://img.shields.io/badge/PYTHON-0d1117?style=for-the-badge&logo=python&logoColor=00F5FF)
-![Java](https://img.shields.io/badge/JAVA-0d1117?style=for-the-badge&logo=openjdk&logoColor=FF2BD6)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=9B8CFF)
-
-</td>
-</tr>
-<tr>
-<td align="center"><b><code>WEB &amp; BACKEND</code></b></td>
-<td>
-
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=FF6B35)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00F5FF)
-![Django](https://img.shields.io/badge/DJANGO-0d1117?style=for-the-badge&logo=django&logoColor=3DFF9A)
-![MySQL](https://img.shields.io/badge/MYSQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00F5FF)
-
-</td>
-</tr>
-<tr>
-<td align="center"><b><code>DATA &amp; AI</code></b></td>
-<td>
-
-![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=for-the-badge&logoColor=FF2BD6&labelColor=0d1117&color=0d1117)
-![Pandas](https://img.shields.io/badge/PANDAS-0d1117?style=for-the-badge&logo=pandas&logoColor=9B8CFF)
-
-</td>
-</tr>
-<tr>
-<td align="center"><b><code>TOOLS</code></b></td>
-<td>
-
-![Git](https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=git&logoColor=FF6B35)
-![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-</td>
-</tr>
-</table>
+<img src="assets/stack.svg" alt="Tech stack. Languages: Python, Java, C++, JavaScript, PHP. Web and backend: HTML5, CSS3, Django, MySQL. Data and AI: NLTK, Pandas. Tools: Git, GitHub." width="100%">
 </div>
 
 <br>
@@ -88,70 +46,12 @@ I'm a Computer Engineering student interested in software development, web techn
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### ◈ PAPERLY
-**Bloom's Taxonomy Question Paper Generator**
-
-A question-generation application that applies NLP concepts and a desktop GUI to build question papers aligned with Bloom's Taxonomy.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5FF)
-![NLTK](https://img.shields.io/badge/NLTK-0d1117?style=flat-square&logoColor=FF2BD6)
-![Tkinter](https://img.shields.io/badge/Tkinter-0d1117?style=flat-square&logoColor=9B8CFF)
-
-[Details in Project Vault →](https://arjun-t-v.github.io/Arjun-portfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-#### ◈ RollNRent
-**Bike Rental Platform**
-
-A web-based bike rental management platform built on a classic PHP and MySQL stack.
-
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=FF6B35)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=9B8CFF)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=00F5FF)
-
-[Details in Project Vault →](https://arjun-t-v.github.io/Arjun-portfolio/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### ◈ Password Analyzer
-**Password Strength Utility**
-
-A Python application that evaluates password strength and estimates resistance to brute-force attacks.
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5FF)
-![Security](https://img.shields.io/badge/Security-0d1117?style=flat-square&logoColor=FF2BD6)
-
-[Details in Project Vault →](https://arjun-t-v.github.io/Arjun-portfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-#### ◈ PARKEASE
-**Smart Parking Platform**
-
-A parking-slot management project exploring IoT sensor integration and ML-based parking-duration prediction.
-
-![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=3DFF9A)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00F5FF)
-![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logoColor=FF6B35)
-![ML](https://img.shields.io/badge/ML-0d1117?style=flat-square&logoColor=9B8CFF)
-
-[Details in Project Vault →](https://arjun-t-v.github.io/Arjun-portfolio/)
-
-</td>
-</tr>
-</table>
+<div align="center">
+<a href="https://arjun-t-v.github.io/Arjun-portfolio/"><img src="assets/project-paperly.svg" alt="PAPERLY — Bloom's Taxonomy Question Paper Generator" width="49%"></a>
+<a href="https://arjun-t-v.github.io/Arjun-portfolio/"><img src="assets/project-rollnrent.svg" alt="RollNRent — Bike Rental Platform" width="49%"></a>
+<a href="https://arjun-t-v.github.io/Arjun-portfolio/"><img src="assets/project-password-analyzer.svg" alt="Password Analyzer — Password Strength Utility" width="49%"></a>
+<a href="https://arjun-t-v.github.io/Arjun-portfolio/"><img src="assets/project-parkease.svg" alt="PARKEASE — Smart Parking Platform" width="49%"></a>
+</div>
 
 <br>
 
@@ -161,16 +61,16 @@ A parking-slot management project exploring IoT sensor integration and ML-based 
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-T-V&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=FF2BD6&text_color=C9D1D9&ring_color=00F5FF&border_radius=12" />
-<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-T-V&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=C9D1D9&border_radius=12" />
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-T-V&show_icons=true&bg_color=0A2A5E&border_color=3B67B5&title_color=FFD166&icon_color=7FDBFF&text_color=E6F0FF&ring_color=FFD166&border_radius=10" />
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-T-V&layout=compact&langs_count=8&bg_color=0A2A5E&border_color=3B67B5&title_color=FFD166&text_color=E6F0FF&border_radius=10" />
 
 <br>
 
-<img width="75%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Arjun-T-V&theme=dark&hide_border=true&background=0D1117&ring=FF2BD6&fire=FF6B35&currStreakLabel=00F5FF&currStreakNum=FFFFFF&sideLabels=C9D1D9&sideNums=FFFFFF&dates=8B949E&border_radius=12" />
+<img width="75%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Arjun-T-V&theme=dark&background=0A2A5E&border=3B67B5&ring=FFD166&fire=FF8C42&currStreakLabel=FFD166&currStreakNum=FFFFFF&sideLabels=CFE3FF&sideNums=FFFFFF&dates=9DB8E8&border_radius=10" />
 
 <br>
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-T-V&bg_color=0d1117&color=00F5FF&line=FF2BD6&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-T-V&bg_color=0A2A5E&color=E6F0FF&line=FFD166&point=FFFFFF&area=true&area_color=FFD166&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -180,44 +80,12 @@ A parking-slot management project exploring IoT sensor integration and ML-based 
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="25%" valign="top">
-
-**`PROJECT VAULT`**
-
-Selected projects and technical details
-
-</td>
-<td align="center" width="25%" valign="top">
-
-**`RESUME`**
-
-Education, skills, and project experience
-
-</td>
-<td align="center" width="25%" valign="top">
-
-**`CERTIFICATE GALLERY`**
-
-Certifications and workshops
-
-</td>
-<td align="center" width="25%" valign="top">
-
-**`CONTACT`**
-
-Ways to connect
-
-</td>
-</tr>
-</table>
-
 <div align="center">
+<a href="https://arjun-t-v.github.io/Arjun-portfolio/"><img src="assets/modules.svg" alt="Portfolio modules: Project Vault, Resume, Certificate Gallery, Contact" width="100%"></a>
 
 <br>
 
-[![Launch Portfolio](https://img.shields.io/badge/LAUNCH%20PORTFOLIO-00F5FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![Launch Portfolio](https://img.shields.io/badge/LAUNCH%20PORTFOLIO-FFD166?style=for-the-badge&logo=googlechrome&logoColor=0A2A5E)](https://arjun-t-v.github.io/Arjun-portfolio/)
 
 </div>
 
@@ -229,10 +97,10 @@ Ways to connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=FF2BD6)](mailto:arjun118654@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Arjun-T-V)
-[![Website](https://img.shields.io/badge/WEBSITE-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F5FF)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-0A2A5E?style=for-the-badge&logo=gmail&logoColor=FFD166)](mailto:arjun118654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A2A5E?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0A2A5E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Arjun-T-V)
+[![Website](https://img.shields.io/badge/WEBSITE-0A2A5E?style=for-the-badge&logo=googlechrome&logoColor=CFE3FF)](https://arjun-t-v.github.io/Arjun-portfolio/)
 
 <br>
 
