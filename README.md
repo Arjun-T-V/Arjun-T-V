@@ -8,9 +8,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/ENTER%20PORTFOLIO-FFD166?style=for-the-badge&logo=googlechrome&logoColor=0A2A5E)](https://arjun-t-v.github.io/Arjun-portfolio/)
-[![GitHub](https://img.shields.io/badge/GITHUB-F4F8FF?style=for-the-badge&logo=github&logoColor=0A2A5E)](https://github.com/Arjun-T-V)
-[![LinkedIn](https://img.shields.io/badge/CONNECT-7FDBFF?style=for-the-badge&logo=linkedin&logoColor=0A2A5E)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![Portfolio](https://img.shields.io/badge/ENTER%20PORTFOLIO-B3202A?style=for-the-badge&logo=googlechrome&logoColor=F1E6CF)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![GitHub](https://img.shields.io/badge/GITHUB-2B2420?style=for-the-badge&logo=github&logoColor=F1E6CF)](https://github.com/Arjun-T-V)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-B8923A?style=for-the-badge&logo=linkedin&logoColor=2B2420)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
 
 </div>
 
@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-<img src="assets/spec.svg" alt="Specification sheet: Arjun T V, Computer Engineering student. Focus on Software Engineering, Web Development, AI and NLP." width="100%">
+<img src="assets/scroll.svg" alt="Scroll: Arjun T V, Computer Engineering student. Focus on Software Engineering, Web Development, AI and NLP." width="100%">
 </div>
 
 <br>
@@ -61,16 +61,16 @@ I'm a Computer Engineering student interested in software development, web techn
 
 <div align="center">
 
-<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-T-V&show_icons=true&bg_color=0A2A5E&border_color=3B67B5&title_color=FFD166&icon_color=7FDBFF&text_color=E6F0FF&ring_color=FFD166&border_radius=10" />
-<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-T-V&layout=compact&langs_count=8&bg_color=0A2A5E&border_color=3B67B5&title_color=FFD166&text_color=E6F0FF&border_radius=10" />
+<img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Arjun-T-V&show_icons=true&bg_color=F1E6CF&border_color=2B2420&title_color=B3202A&icon_color=B3202A&text_color=2B2420&ring_color=B3202A&border_radius=6" />
+<img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-T-V&layout=compact&langs_count=8&bg_color=F1E6CF&border_color=2B2420&title_color=B3202A&text_color=2B2420&border_radius=6" />
 
 <br>
 
-<img width="75%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Arjun-T-V&theme=dark&background=0A2A5E&border=3B67B5&ring=FFD166&fire=FF8C42&currStreakLabel=FFD166&currStreakNum=FFFFFF&sideLabels=CFE3FF&sideNums=FFFFFF&dates=9DB8E8&border_radius=10" />
+<img width="75%" alt="Contribution streak" src="https://streak-stats.demolab.com?user=Arjun-T-V&background=F1E6CF&border=2B2420&ring=B3202A&fire=B3202A&currStreakLabel=B3202A&currStreakNum=2B2420&sideLabels=2B2420&sideNums=2B2420&dates=7A6C5B&border_radius=6" />
 
 <br>
 
-<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-T-V&bg_color=0A2A5E&color=E6F0FF&line=FFD166&point=FFFFFF&area=true&area_color=FFD166&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Arjun-T-V&bg_color=F1E6CF&color=2B2420&line=B3202A&point=2B2420&area=true&area_color=B3202A&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -85,7 +85,7 @@ I'm a Computer Engineering student interested in software development, web techn
 
 <br>
 
-[![Launch Portfolio](https://img.shields.io/badge/LAUNCH%20PORTFOLIO-FFD166?style=for-the-badge&logo=googlechrome&logoColor=0A2A5E)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![Launch Portfolio](https://img.shields.io/badge/LAUNCH%20PORTFOLIO-B3202A?style=for-the-badge&logo=googlechrome&logoColor=F1E6CF)](https://arjun-t-v.github.io/Arjun-portfolio/)
 
 </div>
 
@@ -97,10 +97,10 @@ I'm a Computer Engineering student interested in software development, web techn
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/EMAIL-0A2A5E?style=for-the-badge&logo=gmail&logoColor=FFD166)](mailto:arjun118654@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A2A5E?style=for-the-badge&logo=linkedin&logoColor=7FDBFF)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0A2A5E?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/Arjun-T-V)
-[![Website](https://img.shields.io/badge/WEBSITE-0A2A5E?style=for-the-badge&logo=googlechrome&logoColor=CFE3FF)](https://arjun-t-v.github.io/Arjun-portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-2B2420?style=for-the-badge&logo=gmail&logoColor=F1E6CF)](mailto:arjun118654@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-2B2420?style=for-the-badge&logo=linkedin&logoColor=F1E6CF)](https://www.linkedin.com/in/arjun-t-v-a975452b4/)
+[![GitHub](https://img.shields.io/badge/GITHUB-2B2420?style=for-the-badge&logo=github&logoColor=F1E6CF)](https://github.com/Arjun-T-V)
+[![Website](https://img.shields.io/badge/WEBSITE-2B2420?style=for-the-badge&logo=googlechrome&logoColor=F1E6CF)](https://arjun-t-v.github.io/Arjun-portfolio/)
 
 <br>
 
